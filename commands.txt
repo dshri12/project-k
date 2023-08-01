@@ -4,3 +4,5 @@ git status
 git commit -m ' ' <file name>
 git rm --cached
 git log --oneline
+git config --global user.name ' '
+git config --global user.email ' '
