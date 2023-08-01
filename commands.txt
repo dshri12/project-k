@@ -1,0 +1,4 @@
+git init
+git log
+git status
+git commit -m ' ' <file name>
