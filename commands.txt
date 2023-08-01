@@ -7,3 +7,5 @@ git log --oneline
 git config --global user.name ' '
 git config --global user.email ' '
 Vivek sala bhwdwa hai
+git remote -v
+git remote set-url origin
