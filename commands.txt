@@ -9,3 +9,5 @@ git config --global user.email ' '
 Vivek sala bhwdwa hai
 git remote -v
 git remote set-url origin
+git branch
+git switch <branch name>
