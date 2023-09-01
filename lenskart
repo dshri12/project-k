@@ -1,0 +1,23 @@
+git init
+git status 
+git add
+git commit
+git remote -v
+git pull
+git clone
+git push
+git fetch
+git config --global user.name
+git config --global user.email
+git remote set-url --add
+git remote set-url --delete
+git revert
+git reset
+git reset --hard
+git reset --soft
+git branch
+git switch
+git checkout -b 
+git log
+git log --oneline
+git log --oneline --pretty
